@@ -103,7 +103,6 @@ CCTV-15,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030347C3139
 甄嬛传,https://live.ottiptv.cc/huya/26355840
 都挺好,https://live.ottiptv.cc/huya/21059594
 大秦赋,https://live.ottiptv.cc/huya/23903130
-西游记,https://live.ottiptv.cc/huya/26355861
 好先生,https://live.ottiptv.cc/huya/11602088
 小李飞刀,https://live.ottiptv.cc/huya/11342417
 龙门镖局,https://live.ottiptv.cc/huya/11352874
@@ -126,7 +125,6 @@ CCTV-15,http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030347C3139
 乌龙闯情关,https://live.ottiptv.cc/huya/26355767
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 神医喜来乐,https://live.ottiptv.cc/huya/11601978
-三少爷的剑,https://live.ottiptv.cc/huya/30080175
 我爱男保姆,https://live.ottiptv.cc/huya/29581262
 民兵葛二蛋,https://live.ottiptv.cc/huya/11602072
 小鱼儿与花无缺,https://live.ottiptv.cc/huya/29465867
