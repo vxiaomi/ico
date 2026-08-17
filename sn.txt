@@ -177,5 +177,5 @@ CCTV-4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227140/index.m3u8
 地球上的地狱,https://live.ottiptv.cc/yy/1382736918
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 康熙微服私访记,https://live.ottiptv.cc/huya/11342418
-我的团长我的团,https://live.ottiptv.cc/huya/11352910
+特种兵之霹雳火,https://live.ottiptv.cc/huya/11352910
 特种兵之火凤凰,https://live.ottiptv.cc/huya/29982636
